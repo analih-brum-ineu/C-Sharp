@@ -1,5 +1,5 @@
 # C-Sharp
-Study Tracker: C#!
+Acompanhamento de progresso: C#!
 
-[Project 1] C# first steps: Logic programming n Algorithms by Nelio Alves on Udemy (purchased for R$34,90);
-[Project 2] C# COMPLETE Object-Oriented Programming + Projects by Nelio Alves on Udemy (purchased for R$39,90).
+[Projeto nº1] C# primeiros passos: Lógica de Programação e Algoritmos por Nelio Alves via Udemy (adquirido por R$34,90);
+[Projeto nº2] C# COMPLETO Programação Orientada a Objetos + Projetos por Nelio Alves via Udemy (adquirido por R$39,90).
